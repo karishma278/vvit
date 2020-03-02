@@ -1,0 +1,23 @@
+{
+    "basics":{
+        "name":"sita",
+        "role":"student",
+        "email":"sita123@gmail.com",
+        "mobile":"+91 8765432109",
+        "education":[
+            {
+            "degree":"SSC",
+            "percentage":97
+        },
+        {
+            "degree":"INTER",
+            "percentage":97
+        },
+        {
+            "degree":"B.TECH",
+            "percentage":97
+        }
+    ]
+
+    }
+}
